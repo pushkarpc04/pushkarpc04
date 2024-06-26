@@ -23,13 +23,10 @@ I specialize in:
 ### 2. Java-based Web Scraping Tool
 🌐 Designed and implemented a Java-based web scraping tool for data extraction from websites. Rigorous testing ensured accuracy and reliability in data retrieval.
 
-### 3. ATS Integration Dashboard
-📊 Engineered an Applicant Tracking System (ATS) integration dashboard, offering real-time insights into recruitment processes. Implemented data visualization for enhanced decision-making.
-
-### 4. Resume Builder Website using React
+### 3. Resume Builder Website using React
 📝 Created an interactive, user-friendly website for building resumes. Leveraged React for a dynamic and responsive UI, with backend integration for seamless data management.
-
-### 5. Food Delivery Desktop Application (Windows)
+ 
+### 4. Food Delivery Desktop Application (Windows)
 🍔 Developed a Windows desktop app for efficient food delivery services. Optimized code performance, resulting in a faster and more responsive application.
 
 Feel free to explore my repositories for more details on these projects and my coding journey!
