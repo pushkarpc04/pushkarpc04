@@ -11,7 +11,7 @@ Hey there! I'm **Pushkar Chaudhari**, a passionate *Java Software Engineer* base
   - *Grade: 88.08*
 
 ## 💻 Technologies & Tools
-I specialize in:
+I am specialize in:
 - Java | Python | React | HTML | CSS | JavaScript
 - Cloud Computing | PHP | MySQL | React.js
 
