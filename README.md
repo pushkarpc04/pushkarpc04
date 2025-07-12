@@ -23,10 +23,8 @@ I am specialize in:
 ### 2. Java-based Web Scraping Tool
 🌐 Designed and implemented a Java-based web scraping tool for data extraction from websites. Rigorous testing ensured accuracy and reliability in data retrieval.
 
-### 3. Resume Builder Website using React
-📝 Created an interactive, user-friendly website for building resumes. Leveraged React for a dynamic and responsive UI, with backend integration for seamless data management.
- 
-### 4. Food Delivery Desktop Application (Windows)
+
+### 3. Food Delivery Desktop Application (Windows)
 🍔 Developed a Windows desktop app for efficient food delivery services. Optimized code performance, resulting in a faster and more responsive application.
 
 Feel free to explore my repositories for more details on these projects and my coding journey!
