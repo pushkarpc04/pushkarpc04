@@ -5,7 +5,7 @@ Hey there! I'm **Pushkar Chaudhari**, a passionate *Java Software Engineer* base
 ## 🎓 Education
 - **BE in Information Technology**
   - *NBN Sinhgad School Of Engineering Pune (2022-2025)*
-  - *Grade: 8.4 CGPA*
+  - *Grade: 8.7 CGPA*
 - **Diploma in Information Technology**
   - *Government Polytechnic Mumbai (2019-2022)*
   - *Grade: 88.08*
