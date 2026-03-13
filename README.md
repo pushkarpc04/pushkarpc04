@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub!
 
-Hey there! I'm **Pushkar Chaudhari**, a passionate *Java Software Engineer* based in (Currently) Pune. I am doing my BE from NBN Sinhgad School Of Engineering and  graduated with a diploma in Information Technology from Government Polytechnic Mumbai, where I achieved an impressive grade of 88.08.
+Hey there! I'm **Pushkar Chaudhari**, a passionate *Java Software Engineer* based in (Currently) Pune. I completed BE from NBN Sinhgad School Of Engineering and  graduated with a diploma in Information Technology from Government Polytechnic Mumbai, where I achieved an impressive grade of 88.08.
 
 ## 🎓 Education
 - **BE in Information Technology**
